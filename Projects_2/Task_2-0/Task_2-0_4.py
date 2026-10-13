@@ -1,0 +1,1 @@
+print ('Subject\tgrade\nmath\t5\nphysics\t4\ncomputer science\t5')

@@ -1,0 +1,1 @@
+print ('==========','Greetings, dear student !', 'It is my honor to inform you that it is currently year 2026 since the birth of Jesus Christ.', 'Have a great day !','==========', sep='\n')

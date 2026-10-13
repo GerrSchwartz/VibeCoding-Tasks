@@ -1,0 +1,1 @@
+print ('Last name: Chernykh', 'Name: aleksander', 'Group: 202.1', 'Year: 2026')
