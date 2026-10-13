@@ -1,0 +1,5 @@
+reactive_name = input ('input reactive name: ')
+reactive_amount = input ('input reactive amount: ')
+f = open ("C:/Users/Chernyx_Aleksandr/reactive_input.txt", 'w', encoding='utf-8')
+print (f"reactive '{reactive_name}' was added to the stock in the amount of {reactive_amount}", file=f)
+f.close()
